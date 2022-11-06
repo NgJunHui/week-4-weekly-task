@@ -1,0 +1,29 @@
+img{
+    object-fit: cover;
+    height:400px;
+}
+
+.first-img{
+    object-position: 100% 65%; 
+}
+
+.second-img{
+    object-position: 100% 50%; 
+}
+
+.third-img{
+    object-position: 100% 30%; 
+}
+
+.carousel-title{
+    color: black;
+    position: absolute;
+    left:70%;
+    bottom:200%;
+    font-size:40px;
+    font-weight: 800;
+}
+
+#video-container{
+    margin: 5rem 0 10rem 0;
+}
